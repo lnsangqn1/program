@@ -1,0 +1,30 @@
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.Cache
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fLogin.resources
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fAdmin.resources
+D:\Thực hành làm việc nhóm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fBookStore.resources
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\Database1.mdf
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\Database1_log.ldf
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\mscorlib.dll
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\normidna.nlp
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\normnfc.nlp
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\normnfd.nlp
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\normnfkc.nlp
+D:\congnghe.net\QuanLySach\QuanLySach\bin\Debug\normnfkd.nlp
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fAdmin.resources
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fLogin.resources
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fBookStore.resources
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\congnghe.net\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.Cache
