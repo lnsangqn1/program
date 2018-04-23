@@ -27,7 +27,7 @@ namespace QuanLySach
         }
         private void CheckLogin()
         {
-            string connectionString = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\congnghe.net\QuanLySach\QuanLySach\Database1.mdf;Integrated Security=True";
+            string connectionString = connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["quanlysach"].ConnectionString;
             string query = "select * from Login";
             SqlConnection con = new SqlConnection(connectionString);
             using (SqlCommand cmd = new SqlCommand(query, con))

@@ -31,7 +31,7 @@ namespace QuanLySach
                 return;
             }
             
-                string connectionString = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\congnghe.net\QuanLySach\QuanLySach\Database1.mdf;Integrated Security=True";
+                string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["quanlysach"].ConnectionString;
                 string query = string.Format("insert into ThongTinKhachHang (Ho, Ten, NgaySinh, NamSinh, DienThoai, Email, DiaChi, QuocGia, TinhThanh, QuanHuyen, PhuongXa, GhiChu) values ('{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}',N'{7}', '{8}', '{9}', '{10}', '{11}')", txtHo.Text, txtTen.Text, txtNgaySinh.Text, txtNamSinh.Text, txtDienThoai.Text, txtEmail.Text, txtDiaChi.Text, txtQuocGia.Text, txtTinhThanh.Text, txtQuanHuyen.Text, txtPhuongXa.Text, txtGhiChu.Text);
 
                 using (SqlConnection con = new SqlConnection(connectionString))
