@@ -1,0 +1,13 @@
+D:\TestGitHub1\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\TestGitHub1\QuanLySach\QuanLySach\bin\Debug\Database1.mdf
+D:\TestGitHub1\QuanLySach\QuanLySach\bin\Debug\Database1_log.ldf
+D:\TestGitHub1\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\TestGitHub1\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojResolveAssemblyReference.cache
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fAdmin.resources
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fLogin.resources
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.fBookStore.resources
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.Cache
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\TestGitHub1\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
